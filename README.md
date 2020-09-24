@@ -15,7 +15,8 @@ Git repositery for group 4 Fares Ouadahi and Hector Cama
   - Upload of the Jupyter repositories and the report. Name of the corresponding files: 
     - Utils_lab3 and model_lab3 containing all the functions used for the lab (load data, data augmentation, models...)
     - Lab3_tasks containing the tasks that were to be done for the labs.
+    
+## 24/09: Creation of folders in order to arrange better the lab files.
 # Lab 4: 17/09
 
-24/09: Creation of folders in order to arrange better the lab files.
 # Lab 5: 24/09
