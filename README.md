@@ -25,8 +25,15 @@ Git repositery for group 4 Fares Ouadahi and Hector Cama
     - Lab4_task3 containing the code for task 3
 
 # Lab 5 & Lab 6: 08/10
+
+
+### Lab 5
+  - Upload of the Jupyter repositories and the report. Name of the corresponding files:
+    - Functions_Lab5 containing all the functions used for the tasks
+    - Task_lab5 containing the code for the three tasks
+    
   ### Lab 6
   - Upload of the Jupyter repositories and the report. Name of the corresponding files:
     - Functions_Lab6 containing all the functions used for the tasks
-    - Task1_lab6 containing the code for the three tasks
+    - Tasks_lab6 containing the code for the three tasks
     - Bonus_task containing the code for the bonus task
